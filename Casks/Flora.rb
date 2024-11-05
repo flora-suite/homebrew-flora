@@ -1,4 +1,4 @@
-cask "Flora" do
+cask "flora" do
   version "0.2.0"
   sha256 "c440010c5077d2870ac56fcc83656b4502a33721a475091495052fa7df22dc46"
 
