@@ -3,7 +3,7 @@
 How to install Flora using [homebrow](https://brew.sh/)
 
 ``` shell
-brow tab flora-suite/homebrew
+brow tab flora-suite/homebrew-flora
 brew install flora
 ```
 
